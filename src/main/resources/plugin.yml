@@ -1,0 +1,22 @@
+name: AleBuild
+version: 1.1
+main: it.aleemayayt.alebuild.AleBuild
+description: Impedisci ai tuoi staffer di rompere i blocchi e rovinare la lobby per sbaglio!
+api-version: 1.20
+commands:
+  build:
+    description: Permette di abilitare o disabilitare la possibilità di rompere o piazzare blocchi
+  alebuild:
+    description: Gestisci il plugin AleBuild
+    permission: alebuild.reload
+    subcommands:
+      reload:
+        description: Reloadda il Plugin
+        usage: /alebuild reload
+permissions:
+  alebuild.build:
+    description: Permesso per usare il comando /build
+    default: op
+  alebuild.reload:
+    description: Permesso per ricaricare la configurazione del plugin
+    default: op
