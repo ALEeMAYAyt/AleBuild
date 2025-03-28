@@ -1,7 +1,0 @@
-# Configurazione di AleBuild
-# Plugin by ALEeMAYAyt :)
-messages:
-  enabled: true
-  build-enabled: "&aOra puoi rompere e piazzare blocchi!"
-  build-disabled: "&cOra non puoi più rompere o piazzare blocchi!"
-  no-permission: "&cNon hai il permesso di eseguire questo comando."
