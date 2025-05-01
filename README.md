@@ -12,4 +12,4 @@ ho usato IntelliJ IDEA per fare questo plugin. se hai problemi con il codice, me
 
 ## Tutorial
 
-https://youtu.be/jkSKY4Q-rio
+https://youtu.be/jkSKY4Q-rio?si=9wTrnOOO8oCPt1ho
